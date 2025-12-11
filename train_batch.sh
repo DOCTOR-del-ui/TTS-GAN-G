@@ -21,7 +21,7 @@ do
             --rank 0 \
             --dataset Cmapss \
             --bottom_width 8 \
-            --max_iter 20000 \
+            --max_iter 15000 \
             --img_size 32 \
             --gen_model my_gen \
             --dis_model my_dis \
